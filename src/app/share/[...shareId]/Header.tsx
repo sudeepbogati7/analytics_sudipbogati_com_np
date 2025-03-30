@@ -10,7 +10,7 @@ export function Header() {
   return (
     <header className={styles.header}>
       <div>
-        <Link href="https://umami.is" target="_blank" className={styles.title}>
+        <Link href="https://analytics.sudipbogati.com.np" target="_blank" className={styles.title}>
           <Icon size="lg">
             <Icons.Logo />
           </Icon>
